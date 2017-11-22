@@ -73,7 +73,7 @@
       <primaryColor>969696</primaryColor>
       <secondaryColor>7a6161</secondaryColor>
       <fontPath>./art/Oxygen-Bold.ttf</fontPath>
-      <fontSize>0.040</fontSize>
+      <fontSize>0.039</fontSize>
       <pos>0.025 0.18</pos>
       <size>0.950 0.73</size>
       <alignment>center</alignment>
@@ -189,7 +189,7 @@
       <size>0.389 0.754</size>
       <alignment>left</alignment>
       <horizontalMargin>0.005</horizontalMargin>
-      <fontSize>0.04</fontSize>
+      <fontSize>0.039</fontSize>
       <scrollSound>./art/scroll.wav</scrollSound>
     </textlist>
 
